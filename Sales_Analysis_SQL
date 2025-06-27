@@ -1,7 +1,7 @@
 
-CREATE DATABASE sou ;
+CREATE DATABASE kishore ;
 
-USE sou;
+USE kishore;
 
 CREATE TABLE sales_anaysis(
 invoice_id VARCHAR(30) NOT NULL PRIMARY KEY,
